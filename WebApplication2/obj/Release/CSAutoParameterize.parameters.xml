@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="kitacolle-Web.config Connection String" description="kitacolle データベースに接続するためにアプリケーションによって web.config で使用される接続文字列。" defaultValue="Data Source=tcp:h1xu8pk1jo.database.windows.net,1433;Initial Catalog=WebApplication27309_db;User Id=masada@h1xu8pk1jo;Password=Katoku08;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\masada\\Documents\\Visual\ Studio\ 2013\\Projects\\WebApplication2\\WebApplication2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='kitacolle']/@connectionString" />
+  </parameter>
+</parameters>
